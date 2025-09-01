@@ -161,4 +161,6 @@ Detailed analytics with charts and stock performance insights.
 * **Apna College (Sigma Batch):** Structured tutorials for full-stack learning.
 * **AI Tools (ChatGPT & Copilot, etc.):** Assisted with bug fixing, optimization, and documentation support.
 
+---
+
 > **Note:** TradeNest is a portfolio project for learning and demonstration purposes. It is not intended for real financial transactions.
