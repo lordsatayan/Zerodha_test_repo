@@ -103,7 +103,7 @@ npm start
 
 ---
 
-##📸 Screenshots
+## 📸 Screenshots
 
 ### Home Page
 ![Home Page](assets/HomePage.png)
@@ -123,7 +123,7 @@ npm start
 
 ---
 
-#🔮 Future Enhancements
+# 🔮 Future Enhancements
 
 ###Real-time stock data integration via APIs
 ###Buy/Sell order placement simulation
@@ -133,7 +133,7 @@ npm start
 
 ---
 
-##🙏 Credits & Acknowledgements
+## 🙏 Credits & Acknowledgements
 
 ###Zerodha: Design inspiration and content references.
 ###Apna College (Sigma Batch): Structured tutorials for full-stack learning.
