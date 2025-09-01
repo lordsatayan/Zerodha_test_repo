@@ -98,8 +98,10 @@ npm start
 cd dashboard
 npm start
 
-###Frontend: http://localhost:3000
-###Backend: http://localhost:5000
+---
+
+Frontend: http://localhost:3000
+Backend: http://localhost:5000
 
 ---
 
@@ -125,18 +127,20 @@ npm start
 
 # 🔮 Future Enhancements
 
-###Real-time stock data integration via APIs
-###Buy/Sell order placement simulation
-###Advanced charting and analytics
-###Notification system for stock alerts
-###Dark mode toggle for user interface
+### Real-time stock data integration via APIs
+### Buy/Sell order placement simulation
+### Advanced charting and analytics
+### Notification system for stock alerts
+### Dark mode toggle for user interface
 
 ---
 
 ## 🙏 Credits & Acknowledgements
 
-###Zerodha: Design inspiration and content references.
-###Apna College (Sigma Batch): Structured tutorials for full-stack learning.
-###AI Tools (ChatGPT & Copilot, etc.): Assisted with bug fixing, optimization, and documentation support.
+### Zerodha: Design inspiration and content references.
+### Apna College (Sigma Batch): Structured tutorials for full-stack learning.
+### AI Tools (ChatGPT & Copilot, etc.): Assisted with bug fixing, optimization, and documentation support.
+
+---
 
 Note: TradeNest is a portfolio project for learning and demonstration purposes. It is not intended for real financial transactions.
