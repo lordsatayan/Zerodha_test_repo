@@ -103,6 +103,24 @@ npm start
 
 #📸 Screenshots
 
+### Home Page
+![Home Page](assets/HomePage.png)
+
+### Signup Page
+![Signup Page](assets/SignupPage.png)
+
+### Login Page
+![Login Page](assets/LoginPage.png)
+
+### Product Page
+![Product Page](assets/ProductPage.png)
+
+### Dashboard
+![Dashboard 1](assets/Dashboard-1.png)
+![Dashboard 2](assets/Dashboard-2.png)
+
+---
+
 #🔮 Future Enhancements
 
 ###Real-time stock data integration via APIs
