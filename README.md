@@ -101,7 +101,9 @@ npm start
 ###Frontend: http://localhost:3000
 ###Backend: http://localhost:5000
 
-#📸 Screenshots
+---
+
+##📸 Screenshots
 
 ### Home Page
 ![Home Page](assets/HomePage.png)
@@ -128,6 +130,8 @@ npm start
 ###Advanced charting and analytics
 ###Notification system for stock alerts
 ###Dark mode toggle for user interface
+
+---
 
 ##🙏 Credits & Acknowledgements
 
